@@ -26,8 +26,8 @@ Example of built-in functions:
 ```python
 def function_name():
     # code block
-
-## Example
+```
+### Example
 ```python
 def greet():
     print("Hello, welcome to Python!")
@@ -36,3 +36,15 @@ def greet():
 ## 3. Calling a Function
 * A function runs only when it is called.
 `greet()`
+
+## Why Use Functions?
+* Code reusability
+* Easy debugging
+* Better organization
+* Cleaner logic
+
+## Key Points
+* `def` keyword is used to define a function
+* Function name should be meaningful
+* Code inside function must be indented
+* A function can return a value or just perform an action
